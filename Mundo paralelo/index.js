@@ -1,0 +1,1 @@
+let campo = document.getElementById("campo")
